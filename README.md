@@ -4,8 +4,7 @@ I'm an aspiring developer with a strong interest in **Artificial Intelligence**,
 ## 📲 Contact
 *Email:* *[monikakonde41@gmail.com]*
 
-## 🎯 Goals
-As I continue my journey in AI and machine learning, I aim to create innovative solutions by blending creativity, logic, and technology. I look forward to collaborating with passionate developers and exploring opportunities in the tech industry to make a meaningful impact.
+I look forward to collaborating with passionate developers and exploring opportunities in the tech industry to make a meaningful impact.
 
 Let's connect and build something awesome together.
 
