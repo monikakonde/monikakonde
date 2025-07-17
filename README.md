@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Monika
-I'm an aspiring developer with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Mobile Application Development**. I'm currently building projects that integrate AI/ML techniques into applications to solve real-world problems and improve user experiences. I enjoy exploring new technologies and actively work on enhancing my understanding of AI/ML/API integration/Kotlin
+I'm passionate about building smart applications that merge **Artificial Intelligence**, **Machine Learning**, and **Mobile Application Development**. Currently, I’m working on projects that integrate AI/ML models into real-world apps to enhance user experience and solve meaningful problems. I enjoy exploring new technologies, especially around AI/ML-powered features,API integration,Kotlin.
 
 ## 📲 Contact
 *Email:* *[monikakonde41@gmail.com]*
